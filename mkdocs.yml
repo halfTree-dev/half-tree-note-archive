@@ -1,4 +1,5 @@
 site_name: half-tree 的笔记归档
+dev_addr: 0.0.0.0:9964
 
 theme:
   name: material
@@ -45,7 +46,7 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/halfTree-dev
+      link: https://github.com/halfTree-dev/half-tree-note-archive
 
 # 用以显示数学公式的JS文件
 extra_javascript:
