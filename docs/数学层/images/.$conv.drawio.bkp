@@ -1,0 +1,300 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.15 Chrome/134.0.6998.205 Electron/35.2.1 Safari/537.36" version="26.2.15">
+  <diagram name="第 1 页" id="7YHnIMqOUqZnPbnv8gka">
+    <mxGraphModel dx="800" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <!-- 第一步 -->
+        <mxCell id="42Wx4m-CjBb4-Pph-dHn-1" value="`a_1`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="190" y="180" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="42Wx4m-CjBb4-Pph-dHn-2" value="`a_2`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="230" y="180" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="42Wx4m-CjBb4-Pph-dHn-3" value="`a_3`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="270" y="180" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="42Wx4m-CjBb4-Pph-dHn-4" value="`a_4`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="310" y="180" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="42Wx4m-CjBb4-Pph-dHn-6" value="`b_3`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=east;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="110" y="140" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="42Wx4m-CjBb4-Pph-dHn-7" value="`b_2`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=east;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="150" y="140" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="42Wx4m-CjBb4-Pph-dHn-8" value="`b_1`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=east;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="190" y="140" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="42Wx4m-CjBb4-Pph-dHn-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;endSize=3;startSize=3;strokeColor=#999999;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="199.70999999999998" y="190" as="sourcePoint" />
+            <mxPoint x="199.70999999999998" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="42Wx4m-CjBb4-Pph-dHn-12" value="`c_1 = a_1 b_1`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="210" width="110" height="30" as="geometry" />
+        </mxCell>
+        
+        <!-- 第二步：计算c_2 -->
+        <mxCell id="step2-title" value="步骤 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="180" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="step2-a1" value="`a_1`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="190" y="290" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="step2-a2" value="`a_2`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="230" y="290" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="step2-a3" value="`a_3`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="270" y="290" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="step2-a4" value="`a_4`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="310" y="290" width="20" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="step2-b3" value="`b_3`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=east;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="150" y="250" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="step2-b2" value="`b_2`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=east;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="190" y="250" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="step2-b1" value="`b_1`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=east;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="230" y="250" width="20" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="step2-arrow1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;endSize=3;startSize=3;strokeColor=#999999;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="199.71" y="300" as="sourcePoint" />
+            <mxPoint x="199.71" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="step2-arrow2" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;endSize=3;startSize=3;strokeColor=#999999;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="239.71" y="300" as="sourcePoint" />
+            <mxPoint x="239.71" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="step2-result" value="`c_2 = a_1 b_2 + a_2 b_1`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="320" width="160" height="30" as="geometry" />
+        </mxCell>
+        
+        <!-- 第三步：计算c_3 -->
+        <mxCell id="step3-title" value="步骤 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="180" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="step3-a1" value="`a_1`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="190" y="400" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="step3-a2" value="`a_2`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="230" y="400" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="step3-a3" value="`a_3`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="270" y="400" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="step3-a4" value="`a_4`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="310" y="400" width="20" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="step3-b3" value="`b_3`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=east;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="190" y="360" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="step3-b2" value="`b_2`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=east;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="230" y="360" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="step3-b1" value="`b_1`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=east;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="270" y="360" width="20" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="step3-arrow1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;endSize=3;startSize=3;strokeColor=#999999;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="199.71" y="410" as="sourcePoint" />
+            <mxPoint x="199.71" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="step3-arrow2" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;endSize=3;startSize=3;strokeColor=#999999;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="239.71" y="410" as="sourcePoint" />
+            <mxPoint x="239.71" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="step3-arrow3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;endSize=3;startSize=3;strokeColor=#999999;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="279.71" y="410" as="sourcePoint" />
+            <mxPoint x="279.71" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="step3-result" value="`c_3 = a_1 b_3 + a_2 b_2 + a_3 b_1`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="430" width="210" height="30" as="geometry" />
+        </mxCell>
+        
+        <!-- 第四步：计算c_4 -->
+        <mxCell id="step4-title" value="步骤 4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="180" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="step4-a1" value="`a_1`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="190" y="510" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="step4-a2" value="`a_2`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="230" y="510" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="step4-a3" value="`a_3`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="270" y="510" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="step4-a4" value="`a_4`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="310" y="510" width="20" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="step4-b3" value="`b_3`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=east;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="230" y="470" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="step4-b2" value="`b_2`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=east;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="270" y="470" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="step4-b1" value="`b_1`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=east;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="310" y="470" width="20" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="step4-arrow2" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;endSize=3;startSize=3;strokeColor=#999999;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="239.71" y="520" as="sourcePoint" />
+            <mxPoint x="239.71" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="step4-arrow3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;endSize=3;startSize=3;strokeColor=#999999;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="279.71" y="520" as="sourcePoint" />
+            <mxPoint x="279.71" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="step4-arrow4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;endSize=3;startSize=3;strokeColor=#999999;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="319.71" y="520" as="sourcePoint" />
+            <mxPoint x="319.71" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="step4-result" value="`c_4 = a_2 b_3 + a_3 b_2 + a_4 b_1`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="540" width="210" height="30" as="geometry" />
+        </mxCell>
+        
+        <!-- 第五步：计算c_5 -->
+        <mxCell id="step5-title" value="步骤 5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="180" y="590" width="60" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="step5-a1" value="`a_1`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="190" y="620" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="step5-a2" value="`a_2`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="230" y="620" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="step5-a3" value="`a_3`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="270" y="620" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="step5-a4" value="`a_4`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="310" y="620" width="20" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="step5-b3" value="`b_3`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=east;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="270" y="580" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="step5-b2" value="`b_2`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=east;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="310" y="580" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="step5-b1" value="`b_1`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=east;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="350" y="580" width="20" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="step5-arrow3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;endSize=3;startSize=3;strokeColor=#999999;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="279.71" y="630" as="sourcePoint" />
+            <mxPoint x="279.71" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="step5-arrow4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;endSize=3;startSize=3;strokeColor=#999999;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="319.71" y="630" as="sourcePoint" />
+            <mxPoint x="319.71" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="step5-result" value="`c_5 = a_3 b_3 + a_4 b_2`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="650" width="160" height="30" as="geometry" />
+        </mxCell>
+        
+        <!-- 第六步：计算c_6 -->
+        <mxCell id="step6-title" value="步骤 6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="180" y="700" width="60" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="step6-a1" value="`a_1`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="190" y="730" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="step6-a2" value="`a_2`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="230" y="730" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="step6-a3" value="`a_3`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="270" y="730" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="step6-a4" value="`a_4`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="310" y="730" width="20" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="step6-b3" value="`b_3`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=east;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="310" y="690" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="step6-b2" value="`b_2`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=east;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="350" y="690" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="step6-b1" value="`b_1`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=east;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="390" y="690" width="20" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="step6-arrow4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;endSize=3;startSize=3;strokeColor=#999999;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="319.71" y="740" as="sourcePoint" />
+            <mxPoint x="319.71" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="step6-result" value="`c_6 = a_4 b_3`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="760" width="110" height="30" as="geometry" />
+        </mxCell>
+        
+        <!-- 总结部分 -->
+        <mxCell id="summary-title" value="卷积结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="450" y="180" width="100" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="summary-text" value="`c_1 = a_1 b_1`&#xa;`c_2 = a_1 b_2 + a_2 b_1`&#xa;`c_3 = a_1 b_3 + a_2 b_2 + a_3 b_1`&#xa;`c_4 = a_2 b_3 + a_3 b_2 + a_4 b_1`&#xa;`c_5 = a_3 b_3 + a_4 b_2`&#xa;`c_6 = a_4 b_3`" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="450" y="210" width="220" height="120" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="summary-formula" value="一般形式：`c_k = \sum_{i=0}^{k} a_i b_{k-i}`" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="400" y="350" width="280" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="summary-note" value="卷积的几何意义：序列b反转后沿着序列a滑动，&#xa;每个位置对应元素乘积之和即为该位置的卷积值" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="390" width="280" height="40" as="geometry" />
+        </mxCell>
+        
+        <!-- 第一步坐标轴标注 -->
+        <mxCell id="step1-axis" value="步骤 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="180" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
